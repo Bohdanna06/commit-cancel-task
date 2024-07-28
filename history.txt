@@ -1,0 +1,5 @@
+7cddf90 HEAD@{0}: revert: Revert "add correct file"
+7701b7e HEAD@{1}: commit: add correct file
+8d266cd HEAD@{2}: reset: moving to 8d266cd
+c3019dd HEAD@{3}: commit: add bad file
+8d266cd HEAD@{4}: commit (initial): Add file text.txt
